@@ -1,0 +1,1 @@
+define(['./phones'], function () {});
